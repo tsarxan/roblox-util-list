@@ -22,8 +22,12 @@ One of the longest exploits that was running which ended up discontinuing in 202
 
 There is currently no way to purchase a license for **Synapse X** currently.
 
+To access their website plese go to here: https://synapsesoftworks.llc/ and https://x.synapse.to/
+
 
 #### Misc Information
+
+The known developers of Synapse X currently was 3dsboy08, brack4712, Louka, DefCon42, and Eternal.
 
 This is the former names for Synapse X
 | Former Names | Year |
@@ -57,6 +61,50 @@ If you want the documentation please click me!
 
 
 ### SirHurt
+To my knowledge this is the longest exploit that has been running, developed by Spook and ex-dev Aero. This exploit was reliable however recently there has been stability issues.
+
+To access their website plese go to here: https://www.sirhurt.net/
+
+#### CWs:
+Allegedly the owner of SirHurt (Spook) was said to be a Groomer however evidice of this is lacking and had multiple conflicting images, the (Old) V3rmillion & WeAreDevs thread of the CW is deleted as 1 platform shutdown access and the other has deleted their CW section.
+
+#### Misc Information
+
+This is the former names for SirHurt
+| Former Names | Year |
+| ------------ | ---- |
+| AssHurt | 2015 |
+
+This is the pricing for SirHurt
+| Method | Price | Length |
+| ------ | ----- | ------ | 
+| PayPal | $2.80 | 1 Week |
+| Credit/Debit | $2.80 | 1 Week |
+| Crypto | $2.80 | 1 Week |
+| Apple Pay | $2.80 | 1 Week |
+| Google Pay | $2.80 | 1 Week |
+| Robux | $2.80 | 1 Week |
+
+| Method | Price | Length |
+| ------ | ----- | ------ | 
+| PayPal | $9.50 | 1 Month |
+| Credit/Debit | $9.50 | 1 Month |
+| Crypto | $9.50 | 1 Month |
+| Apple Pay | $9.50 | 1 Month |
+| Google Pay | $9.50 | 1 Month |
+| Robux | $9.50 | 1 Month |
+
+<details>
+<summary>These are screenshots of SirHurt</summary>
+<p>SirHurt (v1)</p>
+<h3>SOON</h3>
+<p>SirHurt (v4)</p>
+<h3>SOON</h3>
+<p>SirHurt (v5)</p>
+<h3>SOON</h3>
+</details>
+
+If you want the documentation please click me!
 
 ### Sentinel
 
