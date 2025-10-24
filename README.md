@@ -56,6 +56,30 @@ This is the pricing for Synapse X
 If you want the documentation please click me!
 
 
+### SirHurt
+
+### Sentinel
+
+### Protosmasher
+
+### Velocity
+
+### KRNL
+
+### Bunni/Swift/???
+
+### Calamari
+
+### MacSploit
+
+### Fusion
+
+### Solara
+
+### Celery
+
+### Incognito
+
 ## Execution Methods
 This is the entire list of either known or used execution methods for exploits, this also might contain a few unused or nonviable execution methods.
 
